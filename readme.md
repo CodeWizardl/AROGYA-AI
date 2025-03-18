@@ -10,9 +10,25 @@ Arogya AI is a multimodal digital health assistant that provides medical insight
 - **Voice Response**: Receive responses in both text and audio formats.
 - **Professional Medical Insights**: Get comprehensive medical assessments based on the information you provide.
 
+## Chatbot Interface
+
+**Splash Screen**
+
+![1](https://github.com/user-attachments/assets/1df59612-0ecf-4991-a06b-1c52d0577381)
+
+**User Input & Customization**
+
+![2](https://github.com/user-attachments/assets/64e45f6a-f251-495a-b2f5-1f388cbe0322)
+
+**Generated Response**
+
+![3](https://github.com/user-attachments/assets/851193ba-ede5-4148-9b65-30f8fa90f1f1)
+
 ## Technical Overview
 
 Arogya AI leverages several advanced AI technologies to provide a seamless user experience:
+
+![Architecture](https://github.com/user-attachments/assets/7ea87489-aa67-4f76-a887-a4e02d2300e6)
 
 - **LLM Integration**: Uses Groq's LLama 3.2 (11B vision preview) for text processing and image analysis
 - **Speech-to-Text**: Transcribes voice inputs for processing
@@ -30,8 +46,8 @@ Arogya AI leverages several advanced AI technologies to provide a seamless user 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/arogya-ai.git
-   cd arogya-ai
+   git clone https://github.com/CodeWizardl/AROGYA-AI.git
+   cd AROGYA-AI
    ```
 
 2. Install dependencies:
@@ -49,7 +65,7 @@ Arogya AI leverages several advanced AI technologies to provide a seamless user 
    welcome_message.mp3
    ```
 
-5. Create a `logo.png` file in the project root directory.
+5. Make sure you have a `logo.png` file in the project root directory.
 
 ## Usage
 
